@@ -1,0 +1,33 @@
+#game-container {
+  border: 1px solid maroon;
+  height: 200px;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+
+aside {
+  border: 1px solid blue;
+  height: 200px;
+  width: 100px;
+  margin-top: 20px;
+  
+  
+}
+.crystal-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.crystalCollectors {
+  border: 1px solid maroon;
+  height: 200px;
+  width: 200px;
+  margin-top: 500px;
+}
+
+h1 {
+  color: red;
+}
+
