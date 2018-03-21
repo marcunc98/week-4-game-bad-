@@ -1,19 +1,53 @@
-#game-container {
-  border: 1px solid maroon;
-  height: 200px;
+
+#header {
+  border: 1px solid orange;
+  height: 100px;
   width: 200px;
   margin-bottom: 20px;
 }
+
+#text {
+  border: 1px solid pink;
+  height: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width:500px;
+}
+
+#game-container {
+  border: 1px solid purple;
+  height: 200px;
+  width: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 
 
 aside {
   border: 1px solid blue;
   height: 200px;
   width: 100px;
-  margin-top: 20px;
-  
-  
+  float: right;
+  margin-right: 1000px;
 }
+
+  #container {
+    border: 1px solid green;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .score-div {
+    border: 1px solid green;
+    height: 50px;
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
 .crystal-container {
   display: flex;
   justify-content: space-around;
@@ -22,12 +56,12 @@ aside {
 
 .crystalCollectors {
   border: 1px solid maroon;
-  height: 200px;
-  width: 200px;
-  margin-top: 500px;
+  height: 150px;
+  width: 150px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+   
 }
 
-h1 {
-  color: red;
-}
+
 
